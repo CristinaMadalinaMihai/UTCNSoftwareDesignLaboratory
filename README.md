@@ -1,5 +1,5 @@
 # Useful links:
-
+- https://docs.google.com/spreadsheets/d/19aUOuGr4snfsOXsKFW7o5VfmrHsBwf0TMZB-Nrs3j_E/edit?usp=sharing
 ## C#
 - C# fundamentals recap (https://app.pluralsight.com/library/courses/object-oriented-programming-fundamentals-csharp/table-of-contents)
 - C# collection fundamentals (https://app.pluralsight.com/player?course=csharp-collections&author=simon-robinson&name=csharp-collections-fundamentals-m1-welcome&clip=0)
